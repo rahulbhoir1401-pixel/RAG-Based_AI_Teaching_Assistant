@@ -1,0 +1,12 @@
+Videos_test/
+converted_audios/
+json_chunks/
+newjsons/
+
+*.exe
+*.mp4
+*.mp3
+*.wav
+*.zip
+*.pt
+*.bin
