@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 # RAG-Based AI Teaching Assistant
 
 A full-stack application that wraps a local RAG (Retrieval-Augmented Generation) pipeline for an AI teaching assistant. It allows users to upload educational videos, process them into transcripts and vector embeddings, and then chat with an AI assistant to fetch information directly mapped to specific timestamps in the videos.
